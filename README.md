@@ -1,6 +1,6 @@
 # Project-Revenue-Expeness
 
-Author  :   https://github.com/JetsadaWijit
+Author  :   https://jetsadawijit.github.io
 
 Youtube :   https://www.youtube.com/@jetsadawijit
 
